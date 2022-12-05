@@ -26,7 +26,7 @@ class RegisterRequest extends FormRequest
         return [
             //'username'=>'required|unique:register_user,username',
             'username'=>'required',
-            'phone_number'=>'required'
+            'phone_number'=>'required|regex:/^([0-9\s\-\+\(\)]*)$/|min:10'
 
         ];
     }
