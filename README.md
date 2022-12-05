@@ -12,10 +12,10 @@ required
 <p>Minimum PHP 7 </p>
 <p>Mysql or MariaDB</p>
 <p>Composer</p>
+<p>Git</p>
 <br>
 <h3>To install</h3>
-<p>1. By HTTPS: git clone https://github.com/testhubneki/task.git</p>
-<p>1. By SSH: git clone git@github.com:testhubneki/task.git</p>
+<p>1. git clone https://github.com/testhubneki/task.git</p>
 <p>2. In env  file add name of your database, username, password</p>
 <p>3. Run composer install</p>
 <p>4. Run php artisan migrate</p>
