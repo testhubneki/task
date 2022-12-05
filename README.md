@@ -17,11 +17,12 @@ required
 <h3>To install</h3>
 <p>1. git clone https://github.com/testhubneki/task.git</p>
 <p>2. Edit .env.example and save as .env in .env file add name of your database, username, password</p>
-<p>3. Run composer install</p>
-<p>4. Run php artisan migrate</p>
-<p>5. Run php artisan key:generate</p>
-<p>6. Run php artisan serve</p>
-<p>7. Go to link localhost:8000 OR 127.0.0.1:8000</p>
+<p>3. In .env file add name of your database, username, password</p>
+<p>4. Run composer install</p>
+<p>5. Run php artisan migrate</p>
+<p>6. Run php artisan key:generate</p>
+<p>7. Run php artisan serve</p>
+<p>8. Go to link localhost:8000 OR 127.0.0.1:8000</p>
 
 ## About Laravel
 
