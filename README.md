@@ -9,18 +9,19 @@ required
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 <h3>Required</h3>
-<p>Minimum PHP 7 </p>
+<p>Minimum PHP 8 </p>
 <p>Mysql or MariaDB</p>
 <p>Composer</p>
 <p>Git</p>
 <br>
 <h3>To install</h3>
 <p>1. git clone https://github.com/testhubneki/task.git</p>
-<p>2. In env  file add name of your database, username, password</p>
+<p>2. Edit .env.example and save as .env in .env file add name of your database, username, password</p>
 <p>3. Run composer install</p>
 <p>4. Run php artisan migrate</p>
-<p>5. Run php artisan serve</p>
-<p>6. Go to link localhost:8000 OR 127.0.0.1:8000</p>
+<p>5. Run php artisan key:generate</p>
+<p>6. Run php artisan serve</p>
+<p>7. Go to link localhost:8000 OR 127.0.0.1:8000</p>
 
 ## About Laravel
 
