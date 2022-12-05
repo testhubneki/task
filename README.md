@@ -1,3 +1,5 @@
+required
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -6,6 +8,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+<h3>Required</h3>
+<p>Minimum PHP 7 </p>
+<p>Mysql or MariaDB</p>
+<p>Composer</p>
+<br>
+<h3>To install</h3>
+<p>1. By HTTPS: git clone https://github.com/testhubneki/task.git</p>
+<p>1. By SSH: git clone git@github.com:testhubneki/task.git</p>
+<p>2. In env  file add name of your database, username, password</p>
+<p>3. Run composer install</p>
+<p>4. Run php artisan migrate</p>
+<p>5. Run php artisan serve</p>
+<p>6. Go to link localhost:8000 OR 127.0.0.1:8000</p>
 
 ## About Laravel
 
