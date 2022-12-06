@@ -21,10 +21,12 @@ required
 <p>4. Run composer install</p>
 <p>5. Run php artisan migrate</p>
 <p>6. Run php artisan key:generate</p>
-<p>7. Run php artisan serve</p>
+<p>7. Run php artisan serve</p>Button to pl
 <p>8. Go to link localhost:8000 OR 127.0.0.1:8000</p>
 <br>
-<p>Enter username and phone number(allowed + and number min 10 character), if usename not exist it will createt, if exist then check if usrname and phoneare the same</p>
+<p>Enter username and phone number(allowed + and number min 10 character), if usename not exist it will created and unique link, if exist then check if username and phone are the same</p>
+<p>After loggin user will see uniqe link, clik on link show another page with Deactivate, Create unique link, History and button to play(show random number from 0-1000 and result and amaount procent </p>
+
 
 ## About Laravel
 
