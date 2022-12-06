@@ -23,6 +23,8 @@ required
 <p>6. Run php artisan key:generate</p>
 <p>7. Run php artisan serve</p>
 <p>8. Go to link localhost:8000 OR 127.0.0.1:8000</p>
+<br>
+<p>Enter username and phone number(allowed + and number min 10 character), if usename not exist it will createt, if exist then check if usrname and phoneare the same</p>
 
 ## About Laravel
 
